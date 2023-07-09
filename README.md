@@ -62,3 +62,6 @@ Essas descobertas fornecem insights valiosos para investidores e traders. A corr
 Vale ressaltar que os mercados financeiros são complexos e imprevisíveis, e o desempenho passado não é indicativo de resultados futuros. Portanto, é necessário um entendimento abrangente dos fatores subjacentes e uma avaliação de riscos completa ao considerar investimentos em Bitcoin ou qualquer instrumento financeiro.
 
 Em geral, esta análise fornece uma base para entender as relações entre o Bitcoin e esses indicadores financeiros, oferecendo insights que podem informar estratégias de investimento e tomada de decisões.
+
+### Referência
+Jenmar. (n.d.). Financial Metrics. Retrieved from https://www.kaggle.com/datasets/jenmar/financial-metrics
